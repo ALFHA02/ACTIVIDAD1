@@ -8,6 +8,6 @@
 </head>
 <boby>
     HOLA SOY KEVIN PLUAS:
-    <img> src="MESSI.JPG">
+    <imagen> src="MESSI.JPG">
 </boby>
 </html>
